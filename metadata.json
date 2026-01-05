@@ -1,0 +1,8 @@
+{
+  "name": "Crimson Guard: Red Team Tactical Dashboard",
+  "description": "A high-end, professional red teaming simulation and security analysis tool. It leverages Gemini 3 Pro to analyze attack surfaces, generate simulation payloads, and gather threat intelligence via Google Search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
